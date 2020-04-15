@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+html{margin: 25px;
+padding: 0;}
+
+.my-class {
+	color: hotpink;
+	border: 1px dotted hotpink;
+	text-align: center;
+	padding: 0.5em;	
+}
+.my-class2 {
+    color: hotpink;
+    background-color: black;
+    border: 2px dotted hotpink;
+    text-align: center;
+    padding-top: 1.5em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    padding-bottom: 1.5em;	
+	font-family: 'Comic Neue', cursive;
+
+	
+}
+.my-class3 {
+    text-align: left;
+    background-color: #070707;
+    color: hotpink;
+}
+
+
+body{
+    background-color: black;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    margin-right: 0px;
+    margin-left: 50px;
+}
+
+h1{font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}
+
+
+p{ margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 25px;
+  margin-left: 25px;
+text-align: center;
+line-height: 19px;
+padding: 0px;
+margin: 35px;
+font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
+	
+	
+
